@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SV22T1020274.BusinessLayers\SV22T1020274.BusinessLayers.csproj" />
+    <ProjectReference Include="..\SV22T1020274.Models\SV22T1020274.Models.csproj" />
+  </ItemGroup>
+
+</Project>
