@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SV22T1020274.Datalayers\SV22T1020274.DataLayers.csproj" />
+    <ProjectReference Include="..\SV22T1020274.Models\SV22T1020274.Models.csproj" />
+  </ItemGroup>
+
+</Project>
